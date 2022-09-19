@@ -1,0 +1,16 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#canvas{
+  width: "1024";
+  height: "1024";
+}
+
+#right{
+  left:0;
+  bottom:0;
+  position: absolute;
+  font-size: 15px;
+}
