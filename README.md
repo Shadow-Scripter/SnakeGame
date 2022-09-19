@@ -1,1 +1,1 @@
-#### Hi
+## A very simple Snake Game. The webpage is made with HTML/CSS, and the Snake and everything else is made with JavaScript.
